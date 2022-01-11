@@ -1,6 +1,6 @@
 <template>
     <div class="columns is-centered">
-        <div class="column is-half-desktop is-full-touch">
+        <div class="column is-two-thirds-desktop is-full-touch">
             <enso-form class="box has-background-light raises-on-hover"
                 :key="key"
                 @ready="form = $event.form"
@@ -11,12 +11,12 @@
 </template>
 
 <script>
-import { EnsoForm, FormField } from '@enso-ui/forms/bulma';
+import { EnsoForm } from '@enso-ui/forms/bulma';
 
 export default {
     name: 'Index',
 
-    components: { EnsoForm, FormField },
+    components: { EnsoForm },
 
     data: () => ({
         form: null,
