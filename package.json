@@ -1,5 +1,5 @@
 {
-    "name": "@cgdsoftware/algolia",
+    "name": "@liberu-ui/algolia",
     "version": "2.0.1",
     "description": "algolia package",
     "main": "src/bulma/pages/algolia/Index.vue",
@@ -21,8 +21,8 @@
     },
     "homepage": "https://github.com/enso-ui/algolia#readme",
     "dependencies": {
-        "@cgdsoftware/loader": "^2.0",
-        "@cgdsoftware/mixins": "^2.0",
+        "@liberu-ui/loader": "^2.0",
+        "@liberu-ui/mixins": "^2.0",
         "@fortawesome/fontawesome-svg-core": "^1.2.2",
         "@fortawesome/free-regular-svg-icons": "^5.2.0",
         "@fortawesome/free-solid-svg-icons": "^5.2.0",
