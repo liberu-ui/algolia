@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/enso-ui/algolia.git"
+        "url": "git+https://github.com/liberu-ui/algolia.git"
     },
     "keywords": [
         "algolia",
@@ -17,9 +17,9 @@
     "author": "Adrian Ocneanu <aocneanu@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/enso-ui/algolia/issues"
+        "url": "https://github.com/liberu-ui/algolia/issues"
     },
-    "homepage": "https://github.com/enso-ui/algolia#readme",
+    "homepage": "https://github.com/liberu-ui/algolia#readme",
     "dependencies": {
         "@liberu-ui/loader": "^2.0",
         "@liberu-ui/mixins": "^2.0",

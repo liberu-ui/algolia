@@ -1,2 +1,2 @@
-###  enso-ui - algolia
+###  liberu-ui - algolia
 Coming soon
